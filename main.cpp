@@ -4,6 +4,8 @@ using std::endl;
 
 int main()
 {
-  cout << "hello world!" << endl;
+  cout << "Ruth Allen" << endl;
+  cout << "SAP IT306" << endl;
+  
 }
 
